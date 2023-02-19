@@ -9,7 +9,7 @@ Replayファイルをゲームのreplayフォルダに手軽に仕分けして�
 
 #お問い合わせ
 フィードバックはGitHubリポジトリにissueを建てていただくとありがたいです。
-https://github.io/
+https://github.com/armadillo-winX/marisa
 
 GitHubをお使いでない場合もしくはそのほかのお問い合わせは開発者TwitterもしくはMisskeyへご連絡ください。
 開発者Twitter
