@@ -99,7 +99,7 @@ namespace marisa
             {
                 return Th11;
             }
-            else if (gameId == "th2")
+            else if (gameId == "th12")
             {
                 return Th12;
             }
