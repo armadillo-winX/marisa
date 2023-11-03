@@ -2,3 +2,6 @@
 
 # CS8602: null 参照の可能性があるものの逆参照です。
 dotnet_diagnostic.CS8602.severity = none
+
+# CS8604: Null 参照引数の可能性があります。
+dotnet_diagnostic.CS8604.severity = silent
